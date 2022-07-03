@@ -129,5 +129,5 @@ printf("Player2 : WINNERWINNERCHICKENDINNER"); goto end2; }printf("\n"); }
 }
 end1: 
 end2:
-return0; 
+return 0; 
 }
